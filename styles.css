@@ -267,7 +267,7 @@ h1, h2, h3 {
 /* Contato */
 .contato {
     padding: 5rem 0;
-    background: var(--white);
+    background: var(--light-color);
 }
 
 .contato h2 {
@@ -286,7 +286,7 @@ h1, h2, h3 {
 }
 
 .info-item {
-    background: var(--light-color);
+    background: var(--white);
     padding: 2rem;
     border-radius: 15px;
     text-align: center;
